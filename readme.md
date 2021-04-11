@@ -1,4 +1,6 @@
-# Plotly Deploy
-A repo to deploy a dashboard via my GitHub Page of my Biodiversity data visualization.
+# plotly-deployment
 
-# About this project
+ https://tveeder.github.io/plotly-deployment/
+ 
+ 
+
